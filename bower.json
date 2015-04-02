@@ -14,7 +14,8 @@
     "qunit": "~1.17.1",
     "materialize": "~0.96.0",
     "animate.css": "~3.2.6",
-    "c3": "~0.4.10"
+    "c3": "~0.4.10",
+    "pretender": "0.1.0"
   },
   "resolutions": {
     "jquery": "~2.1.3",
