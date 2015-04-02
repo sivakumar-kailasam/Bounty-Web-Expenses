@@ -13,7 +13,8 @@
     "ember-qunit-notifications": "0.0.7",
     "qunit": "~1.17.1",
     "materialize": "~0.96.0",
-    "animate.css": "~3.2.6"
+    "animate.css": "~3.2.6",
+    "c3": "~0.4.10"
   },
   "resolutions": {
     "jquery": "~2.1.3",
