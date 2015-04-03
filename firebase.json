@@ -1,0 +1,8 @@
+{
+    "firebase": "bounty-web-express",
+    "public": "dist",
+    "rewrites": [{
+        "source": "**",
+        "destination": "/index.html"
+    }]
+}
